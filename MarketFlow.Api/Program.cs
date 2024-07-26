@@ -38,7 +38,7 @@ builder.Services.AddTransient<IStoreRepository, StoreRepository>();
 // Register AutoMapper
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
-//builder.Services.AddAutoMapper(typeof(Program));
+
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

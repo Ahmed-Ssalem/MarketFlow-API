@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "MarketFlow.Api\\Program.cs",
               "ToolTip": "D:\\Projects\u0027Codes\\C#\\MarketFlow\\MarketFlow.Api\\Program.cs",
               "RelativeToolTip": "MarketFlow.Api\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T19:42:16.698Z",
               "EditorCaption": ""
@@ -64,15 +64,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MarketFlow.Api",
+              "Title": "MarketFlow.Api.csproj",
               "DocumentMoniker": "D:\\Projects\u0027Codes\\C#\\MarketFlow\\MarketFlow.Api\\MarketFlow.Api.csproj",
               "RelativeDocumentMoniker": "MarketFlow.Api\\MarketFlow.Api.csproj",
               "ToolTip": "D:\\Projects\u0027Codes\\C#\\MarketFlow\\MarketFlow.Api\\MarketFlow.Api.csproj",
               "RelativeToolTip": "MarketFlow.Api\\MarketFlow.Api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-26T19:41:36.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T19:41:36.673Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "MarketFlow.Api\\Controllers\\StoresController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T19:40:47.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T19:40:47.682Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "MarketFlow.Core\\Entities\\Store.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T19:39:26.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T19:39:26.7Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "MarketFlow.Core\\Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T19:39:14.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T19:39:14.863Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "MarketFlow.Core\\Entities\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T19:38:46.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T19:38:46.151Z"
             }
           ]
         }
