@@ -1,0 +1,17 @@
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\bin\Debug\net8.0\MarketFlow.Presistence.deps.json
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\bin\Debug\net8.0\MarketFlow.Presistence.runtimeconfig.json
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\bin\Debug\net8.0\MarketFlow.Presistence.dll
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\bin\Debug\net8.0\MarketFlow.Presistence.pdb
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\bin\Debug\net8.0\MarketFlow.Core.dll
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\bin\Debug\net8.0\MarketFlow.Core.pdb
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFlow.Presistence.csproj.AssemblyReference.cache
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFlow.Presistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFlow.Presistence.AssemblyInfoInputs.cache
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFlow.Presistence.AssemblyInfo.cs
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFlow.Presistence.csproj.CoreCompileInputs.cache
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFl.1D308154.Up2Date
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFlow.Presistence.dll
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\refint\MarketFlow.Presistence.dll
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFlow.Presistence.pdb
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFlow.Presistence.genruntimeconfig.cache
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\ref\MarketFlow.Presistence.dll

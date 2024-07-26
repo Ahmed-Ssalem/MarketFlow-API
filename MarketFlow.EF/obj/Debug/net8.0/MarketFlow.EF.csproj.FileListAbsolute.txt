@@ -1,0 +1,17 @@
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\bin\Debug\net8.0\MarketFlow.EF.deps.json
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\bin\Debug\net8.0\MarketFlow.EF.runtimeconfig.json
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\bin\Debug\net8.0\MarketFlow.EF.dll
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\bin\Debug\net8.0\MarketFlow.EF.pdb
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFlow.EF.csproj.AssemblyReference.cache
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFlow.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFlow.EF.AssemblyInfoInputs.cache
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFlow.EF.AssemblyInfo.cs
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFlow.EF.csproj.CoreCompileInputs.cache
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFlow.EF.dll
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\refint\MarketFlow.EF.dll
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFlow.EF.pdb
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFlow.EF.genruntimeconfig.cache
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\ref\MarketFlow.EF.dll
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\bin\Debug\net8.0\MarketFlow.Core.dll
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\bin\Debug\net8.0\MarketFlow.Core.pdb
+D:\Projects'Codes\C#\MarketFlow\MarketFlow.EF\obj\Debug\net8.0\MarketFl.5B8DC509.Up2Date

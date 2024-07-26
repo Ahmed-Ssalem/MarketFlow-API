@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eBy2fF6wZt83t9KQQRhHDkKhC9nOlyYPlGVqf/n6AuQ=",
+  "Source": "MarketFlow.Api",
+  "BasePath": "_content/MarketFlow.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
